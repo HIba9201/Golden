@@ -223,12 +223,12 @@ footer{
 
 
 
-@media handheld and (max-width: 1200px){
+@media screen and (max-width: 1200px){
     .gallery__item{
         margin-left: 20px;
     }
 }
-@media handheld and (max-width: 1100px) {
+@media screen and (max-width: 1100px) {
     .wrapper {
         width: 80%;
     }
@@ -242,7 +242,7 @@ footer{
         margin: 10px auto;
     }
 }
-@media handheld and (max-width: 890px) {
+@media screen and (max-width: 890px) {
     .topnav a {
         margin-left: 20px;
     }
@@ -260,7 +260,7 @@ footer{
         margin-left: 55px;
     }
 }
-@media handheld and (max-width: 680px){
+@media screen and (max-width: 680px){
     .topnav a {
         display: none;
     }
@@ -302,7 +302,7 @@ footer{
         width: 100%;
     }
 }
-@media handheld and (max-width: 380px){
+@media screen and (max-width: 380px){
     .topnav.responsive {
         left: -20px;
     }
@@ -310,7 +310,7 @@ footer{
         right: -20px;
     }
 }
-@media handheld and (max-width: 320px){
+@media screen and (max-width: 320px){
     .title a{
         padding: 18px 20px;
     }
